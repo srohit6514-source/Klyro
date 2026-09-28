@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1790584873972,
+      "role": "customer",
+      "name": "Rohit",
+      "email": "takuli rohits01197@gmail.com",
+      "password": "12ka442ka1",
+      "phone": "08077554507",
+      "providerId": null
+    }
+  ],
+  "providers": [],
+  "items": [],
+  "orders": [],
+  "messages": []
+}
